@@ -1,4 +1,3 @@
-# -Sentence-analyzer-DSA-Project-
 # 🧠 Sentence Analyzer (DSA Project)
 
 A Python-based mini project that analyzes any sentence and finds:
@@ -15,7 +14,7 @@ This project demonstrates the *Data Structures & Algorithms (DSA)* concept of *H
 - Counts how many times each word appears  
 - Displays the most frequent word  
 - Shows total distinct word count  
-- Clean, beginner-friendly logic ✨  
+ 
 
 ---
 
@@ -26,5 +25,3 @@ This project demonstrates the *Data Structures & Algorithms (DSA)* concept of *H
 - *Space Complexity:* O(n)  
 
 ---
-
-## 🧠 Example Output
