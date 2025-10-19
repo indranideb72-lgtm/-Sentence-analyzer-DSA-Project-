@@ -25,3 +25,7 @@ This project demonstrates the *Data Structures & Algorithms (DSA)* concept of *H
 - *Space Complexity:* O(n)  
 
 ---
+## 🎊Vesrsion 2 of hash 
+### New features 
+- Choice to check what you want
+- Newly added Total number of words
