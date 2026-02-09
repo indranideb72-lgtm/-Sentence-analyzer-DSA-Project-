@@ -4,6 +4,7 @@ A Python-based mini project that analyzes any sentence and finds:
 - The *most frequent word* 🏆  
 - The *number of distinct words*  
 - The *frequency of each word*
+- The total number of words
 
 This project demonstrates the *Data Structures & Algorithms (DSA)* concept of *Hash Maps (Dictionaries)* for efficient frequency counting in *O(n)* time.
 
